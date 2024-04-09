@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pandas
+matplotlib
+seaborn
+geopandas
+contextily
+pyarrow
